@@ -1,0 +1,15 @@
+{
+  "name": "@backlight-dev/bubble-admit-6eakb.sass-m5w8g58a",
+  "version": "0.0.0",
+  "description": "Sass Starter Kit for Backlight.dev",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve c9iGhksB4jGkU3IFZYkp --open"
+  },
+  "dependencies": {
+    "@divriots/dockit-core": "^0.7.2",
+    "lit": "^2.2.0"
+  }
+}
